@@ -1,7 +1,5 @@
 # movie_recommendation_system
-Here's an updated **README** template for your **Movie Recommendation System** that reflects the use of **Streamlit**, **Python**, and other relevant technologies:
 
----
 
 # Movie Recommendation System
 
@@ -44,7 +42,7 @@ This project is a content-based **Movie Recommendation System** built using mach
 
 ## Usage
 
-- Open the Streamlit web application in your browser at `http://localhost:8501`.
+- Open the Streamlit web application in your browser at ``.
 - Input your movie preferences (genres, actors, or movie titles).
 - Receive personalized movie recommendations based on your input.
 
